@@ -4,11 +4,11 @@
 body{
     font-family: sans-serif;
     background-color: #267352;
-    font-size:150%;
+    font-size:120%;
 }
 h1{
     color:white;
-    text-shadow: 4px 0 black;
+    text-shadow: 6px 4px black;
     text-transform:uppercase;
     text-align: left;
 }
@@ -17,28 +17,28 @@ p{
 }
 /* ***********Clases****************************** */
 .intro{
-    border: 15px solid black;
-    border-radius: 7%;
+    border: 10px solid black;
+    border-radius: 20px;
     margin-left:25%;
     margin-right: 25%;
-    padding:1.5%;
+    padding:1%;
     background-color: white;
 }
 .estilo1{
     border:15px solid #802400;
-    border-top-left-radius: 7%;
-    border-bottom-left-radius:7%;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius:20px;
     color:white;
     background-color: #AC5A39;
     margin-right: 50%;
-    padding:1.5%;
+    padding:1%;
 }
 .estilo2{
     border: 15px solid #804800;
-    border-top-right-radius: 7%;
-    border-bottom-right-radius:7%;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius:20px;
     margin-left:50%;
-    padding:1.5%;
+    padding:1%;
     color:white;
     background-color: #AC7A39;
 }
@@ -46,7 +46,7 @@ p{
     border: 5px dashed #3978AC;
     margin-left: 25%;
     margin-right: 25%;
-    padding:1.5%;
+    padding:1%;
     color:white;
     background-color: #004680;
 }
